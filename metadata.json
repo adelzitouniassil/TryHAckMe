@@ -1,0 +1,6 @@
+{
+  "name": "TryHackMe - Cyber Security Training Platform",
+  "description": "Plateforme d'apprentissage et d'entraînement à la cybersécurité avec machines virtuelles, parcours guidés et défis CTF bilingues (EN/FR).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
